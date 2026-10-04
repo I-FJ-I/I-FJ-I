@@ -5,8 +5,7 @@
 Welcome to my GitHub profile! I am a **Computer Engineer** graduated from the **Universidad de Murcia**. I am passionate about creating clean, scalable code and solving complex problems. 
 
 ## About Me
-- I'm currently working as a **Software Engineer at SEAT S.A.**
-- Previously, I worked as a **Web Developer at EPAM-NEORIS**, utilizing **JavaScript and C#**.
+- **Former Software Engineer** at **SEAT S.A.** (and previously **Web Developer** at **EPAM-NEORIS** using JavaScript & C#).
 - Graduated in **Computer Engineering (May 2026)** with a strong foundation in **C++, Java, and SQL databases**.
 - I'm highly interested in **Requirements Engineering** and **Full Stack Development**.
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/francisco-jose-gil-gil-063a60372).
